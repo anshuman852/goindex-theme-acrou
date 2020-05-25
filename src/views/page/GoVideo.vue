@@ -71,7 +71,7 @@ export default {
       // 便于开发环境调试
       this.videourl = window.location.origin + encodeURI(this.url);
       this.apiurl =
-        "https://api.jsonpop.cn/demo/blplyaer/?url=" + this.videourl;
+        "https://onelineplayer.com/player.html?autoplay=true&autopause=false&muted=true&loop=false&poster=&time=true&progressBar=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&quality=auto&playButton=true&url=" + this.videourl;
     },
   },
   activated() {
