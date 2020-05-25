@@ -149,7 +149,7 @@ function html(current_drive_order = 0, model = {}) {
 </head>
 <body>
     <div id="app"></div>
-    <script src="https://cdn.jsdelivr.net/gh/Aicirou/goindex-theme-acrou@master/dist/app.min.js"></script>
+    <script src="https://rawcdn.githack.com/Aicirou/goindex-theme-acrou/8dbabb4ae840ad4a0b427834a6e02d1588430263/dist/app.min.js"></script>
 </body>
 </html>
 `;
